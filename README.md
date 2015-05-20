@@ -6,3 +6,5 @@ I use this tool to check if I use correct path inside 'Get an Item from Dictiona
 
 #How to use
 ![Example](https://raw.githubusercontent.com/RFlipper/DynamicValueEvaluator/master/Example.png)
+
+![SharePoint Designer Example](https://raw.githubusercontent.com/RFlipper/DynamicValueEvaluator/master/SPDExample.png)
